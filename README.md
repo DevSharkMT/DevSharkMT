@@ -1,13 +1,19 @@
 <img width=100% bottom=50px src="https://github.com/DevSharkMT/DevSharkMT/assets/155767351/b4d0559e-75b0-400f-8ca9-1dca08a2b66c"/>
 <br>
 <br>
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7511C0&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Receputi" alt="Typing SVG" /></a>
 </div>
+
 <br>
+
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DevSharkMT&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+    <img width=40% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DevSharkMT&show_icons=true&theme=radical&layout=compact" />
 </div>
+
+<br>
 <br>
 
 <div align="center"> 
@@ -33,7 +39,6 @@
 </div>
 
 <br>
-
 
 <h1 align="left"> Maior Conhecimento: </h1>
 <div align="center"> 
