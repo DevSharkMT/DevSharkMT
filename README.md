@@ -9,8 +9,13 @@
 <br>
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DevSharkMT&theme=tokyonight-duo" alt="GitHub Streak" /></a>
-    <img width=40% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DevSharkMT&show_icons=true&theme=radical&layout=compact" />
+    <a href="https://git.io/streak-stats"><img width="700" src="https://github-readme-streak-stats.herokuapp.com?user=DevSharkMT&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+    
+</div>
+
+<div align="center">
+  <img width=40% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DevSharkMT&show_icons=true&theme=radical&layout=compact" />
+
 </div>
 
 <br>
