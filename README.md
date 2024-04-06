@@ -97,5 +97,5 @@
 <br>
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevSharkMT&s=50&c=7300ff&bg=00000000&no=2&ff=linebeam&tb=Visitantes+no+Perfil%3A&ta=" alt="visits">
+ <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevSharkMT&s=35&c=0515f0&bg=00000000&no=10&ff=digii&tb=Visitas+no+Perfil%3A+&ta=" alt="visits">
 </div>
