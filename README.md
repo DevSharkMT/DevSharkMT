@@ -21,11 +21,12 @@
 <br>
 <br>
 
+<h2>REDES SOCIAIS</h2>
 <div align="center"> 
   <a href="https://instagram.com/the_receputi" target="_blank">
     <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
   </a>
-  
+
   <a href="mailto:cmp.1a.receputi27dev@gmail.com">
     <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
   </a>
@@ -37,12 +38,16 @@
 
 <br>
 
+<h2></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=7D29F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Gr%C3%A1fico+de+Contribui%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/DevSharkMT?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
+  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/DevSharkMT?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
 
 </div>
 
+<h2></h2>
 <br>
 
 <h1 align="left"> Maior Conhecimento: </h1>
