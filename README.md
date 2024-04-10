@@ -66,7 +66,7 @@
 
   <img align="center"  height="80" width="80" src="https://github.com/DevSharkMT/DevSharkMT/assets/155767351/7003fb3e-bdd2-487a-b293-7bbe0fc8995e">
 
-  <img align="center"  height="80" width="80" src="https://github.com/DevSharkMT/DevSharkMT/assets/155767351/b453b76d-0700-41ca-a0ab-d6066f649b77">
+  <img align="center"  height="80" width="80" src="https://github.com/DevSharkMT/SISTEMA-SECRETARIA-E-EMPRESA/assets/155767351/bc23081a-8995-4370-b15b-06ca0c519edd">
 </div>
 
 <h1></h1>
@@ -82,9 +82,9 @@
 
   <img align="center"  height="80" width="80" src="https://github.com/DevSharkMT/DevSharkMT/assets/155767351/7003fb3e-bdd2-487a-b293-7bbe0fc8995e">
 
-  <img align="center"  height="80" width="80" src="https://github.com/DevSharkMT/DevSharkMT/assets/155767351/b453b76d-0700-41ca-a0ab-d6066f649b77">
+  <img align="center"  height="80" width="80" src="https://github.com/DevSharkMT/SISTEMA-SECRETARIA-E-EMPRESA/assets/155767351/bc23081a-8995-4370-b15b-06ca0c519edd">
 
-  <img align="center"  height="80" width="80" src="https://github.com/DevSharkMT/DevSharkMT/assets/155767351/69ea4efb-94ff-4202-8915-dc9fcfc4d188">
+  <img align="center"  height="80" width="80" src="https://github.com/DevSharkMT/SISTEMA-SECRETARIA-E-EMPRESA/assets/155767351/9ff6871f-97a6-48a9-8017-6e2a820221fe">
 
   <img align="center"  height="80" width="80" src="https://github.com/DevSharkMT/DevSharkMT/assets/155767351/9bed4994-92d0-4066-a4c0-6f88651f2cd9">
 
